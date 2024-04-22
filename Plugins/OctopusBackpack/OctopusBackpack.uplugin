@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "OctopusBackpack",
+	"Description": "Octopus Backpack",
+	"Category": "CAS",
+	"CreatedBy": "Taueron",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.google.com/document/d/1hY1f3rfX7_ttVwBtDVtCcwb3kpxmUauTAoP_WCBgZSg/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d83d83a0334646018f1eaddb8b5b0afc",
+	"SupportURL": "https://discord.gg/DN4PhbmShg",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "OctopusBackpack",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}
