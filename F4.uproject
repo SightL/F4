@@ -17,6 +17,10 @@
 			"Name": "OctopusBackpack",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d83d83a0334646018f1eaddb8b5b0afc"
+		},
+		{
+			"Name": "Text3D",
+			"Enabled": true
 		}
 	]
 }
